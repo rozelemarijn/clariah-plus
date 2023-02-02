@@ -47,16 +47,17 @@ We use the following communication channels:
 - Mike Bryant (EHRI / King's College London)
 - Steven Claeyssens (National Library of the Netherlands)
 - Sebastiaan Derks (Huygens ING / KNAW Humanities Cluster)
+- Roosmarijn de Groot (Netherlands Institute for Sound and Vision, chair)
 - Ed de Heer (National Archives of the Netherlands)
 - Willem Melder (Netherlands Institute for Sound and Vision)
+- Enno Meijers (Dutch Heritage Network / National Library of the Netherlands)
 - Harm Nijboer (University of Amsterdam)
 - Ronald Sluijter (Huygens ING / KNAW Humanities Cluster)
+- Jetze Touber (DANS, CLARIAH CDO)
 - Frank Uiterwaal (EHRI / NIOD)
 - Mari Wigham (Netherlands Institute for Sound and Vision)
 - Douwe Zeldenrust (Meertens Institute / KNAW Humanities Cluster)
 - ~~Femmy Admiraal (KNAW-DANS, group coordinator), change of position October 2022)~~
-- Andrea Scharnhorst (KNAW-DANS, temporary group coordinator)
-- Roosmarijn de Groot (NISV)
 
 The group is open to new members. 
 
